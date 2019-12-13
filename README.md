@@ -1,6 +1,6 @@
-## movie project
+# movie project
 
-# Grace Park, Askhat Yktybaev
+## Grace Park, Askhat Yktybaev
 
 What are some factors that highly rated movies have in common?
 
